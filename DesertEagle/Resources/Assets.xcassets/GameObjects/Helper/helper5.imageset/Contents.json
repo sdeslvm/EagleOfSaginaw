@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "маленькие птички.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

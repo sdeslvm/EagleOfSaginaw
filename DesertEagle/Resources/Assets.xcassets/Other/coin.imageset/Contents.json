@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Eagle of Saginaw Coin.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

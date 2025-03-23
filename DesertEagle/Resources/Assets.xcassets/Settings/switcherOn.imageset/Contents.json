@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "switcherOn.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
